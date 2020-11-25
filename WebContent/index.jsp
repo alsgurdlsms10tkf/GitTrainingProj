@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>index.jsp</title>
 </head>
 <body>
-	<h2>응애 나 애기 민혁</h2>
+	<h2>git �닔�뾽</h2>
 </body>
 </html>
